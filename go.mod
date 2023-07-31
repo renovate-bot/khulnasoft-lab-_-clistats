@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/json-iterator/go v1.1.12
-	github.com/khulnasoft-labs/freeport v0.0.1
+	github.com/khulnasoft-labs/freeport v0.0.2
 	github.com/khulnasoft-labs/utils v0.0.45
 	github.com/stretchr/testify v1.8.4
 )
