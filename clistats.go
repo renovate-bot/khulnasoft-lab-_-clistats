@@ -9,8 +9,8 @@ import (
 	"time"
 
 	jsoniter "github.com/json-iterator/go"
-	"github.com/khulnasoft-labs/freeport"
-	errorutil "github.com/khulnasoft-labs/utils/errors"
+	"github.com/khulnasoft-lab/freeport"
+	errorutil "github.com/khulnasoft-lab/utils/errors"
 )
 
 // StatisticsClient is an interface implemented by a statistics client.

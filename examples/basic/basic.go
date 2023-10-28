@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/khulnasoft-labs/clistats"
+	"github.com/khulnasoft-lab/clistats"
 )
 
 func main() {

@@ -4,10 +4,10 @@ github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/google/gofuzz v1.0.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/M65Eg=
 github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnrnM=
 github.com/json-iterator/go v1.1.12/go.mod h1:e30LSqwooZae/UwlEbR2852Gd8hjQvJoHmT4TnhNGBo=
-github.com/khulnasoft-labs/freeport v0.0.2 h1:YRVpP5MkIHsSivfIzM/hPNR5CI2pUAYVmMvmUo1ICQ0=
-github.com/khulnasoft-labs/freeport v0.0.2/go.mod h1:cwpcxymge6NrE0q1gFEizrzEY9OrRI5zQ3GIK3h+Dxw=
-github.com/khulnasoft-labs/utils v0.0.45 h1:27tqzQqwMWN4mVw18oexYzejfNW8/ApENWHFwawCNmY=
-github.com/khulnasoft-labs/utils v0.0.45/go.mod h1:J7QDXALnOeITXeNZxy5sLwgONEYnuP7873DuLXtSVxo=
+github.com/khulnasoft-lab/freeport v0.0.3 h1:7HuSfApuCR8xywbGvma9ewPT2JlISkngnnfiPL9zVTk=
+github.com/khulnasoft-lab/freeport v0.0.3/go.mod h1:fj01XM2Ru2rpl8bPrLBb0XUDrHEf5er4/J0Uv0meAHY=
+github.com/khulnasoft-lab/utils v0.0.46 h1:Hp/LQV8Hf/p2+xh5j4bOlO9TB652YZQGOc9UTJOp1vw=
+github.com/khulnasoft-lab/utils v0.0.46/go.mod h1:IeqfAsT15I7KccLjpPTtyPmQ/LhAZnJ9UWZiPBPRnQs=
 github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
 github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd h1:TRLaZ9cD/w8PVh93nsPXa1VrQ6jlwL5oN8l14QlcNfg=
 github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
