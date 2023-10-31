@@ -2,7 +2,7 @@ module github.com/khulnasoft-lab/clistats
 
 go 1.18
 
-replace github.com/khulnasoft-labs/utils => github.com/khulnasoft-lab/utils v0.0.45
+replace github.com/khulnasoft-labs/utils => github.com/khulnasoft-lab/utils v0.0.46
 
 require (
 	github.com/json-iterator/go v1.1.12
