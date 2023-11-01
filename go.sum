@@ -8,6 +8,8 @@ github.com/khulnasoft-lab/freeport v0.0.3 h1:7HuSfApuCR8xywbGvma9ewPT2JlISkngnnf
 github.com/khulnasoft-lab/freeport v0.0.3/go.mod h1:fj01XM2Ru2rpl8bPrLBb0XUDrHEf5er4/J0Uv0meAHY=
 github.com/khulnasoft-lab/utils v0.0.46 h1:Hp/LQV8Hf/p2+xh5j4bOlO9TB652YZQGOc9UTJOp1vw=
 github.com/khulnasoft-lab/utils v0.0.46/go.mod h1:IeqfAsT15I7KccLjpPTtyPmQ/LhAZnJ9UWZiPBPRnQs=
+github.com/khulnasoft-lab/utils v0.0.47 h1:ILZWJ5mS696XnQC4vuizNnYZAf9sd9ZY4xuST8y8dtY=
+github.com/khulnasoft-lab/utils v0.0.47/go.mod h1:4nuOcyrid0Br7/nwZvMQoha0tCiH3LAmWsD8a+2ufDs=
 github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
 github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd h1:TRLaZ9cD/w8PVh93nsPXa1VrQ6jlwL5oN8l14QlcNfg=
 github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd/go.mod h1:6dJC0mAP4ikYIbvyc7fijjWJddQyLn8Ig3JB5CqoB9Q=
