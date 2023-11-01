@@ -2,12 +2,12 @@ module github.com/khulnasoft-lab/clistats
 
 go 1.18
 
-replace github.com/khulnasoft-labs/utils => github.com/khulnasoft-lab/utils v0.0.46
+replace github.com/khulnasoft-labs/utils => github.com/khulnasoft-lab/utils v0.0.47
 
 require (
 	github.com/json-iterator/go v1.1.12
 	github.com/khulnasoft-lab/freeport v0.0.3
-	github.com/khulnasoft-lab/utils v0.0.46
+	github.com/khulnasoft-lab/utils v0.0.47
 	github.com/stretchr/testify v1.8.4
 )
 
