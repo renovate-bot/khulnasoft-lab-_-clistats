@@ -8,7 +8,7 @@ require (
 	github.com/json-iterator/go v1.1.12
 	github.com/khulnasoft-lab/freeport v0.0.3
 	github.com/khulnasoft-lab/utils v0.0.47
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.10.0
 )
 
 require (
